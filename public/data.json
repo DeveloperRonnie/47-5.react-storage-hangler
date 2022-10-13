@@ -1,0 +1,32 @@
+[
+    {
+      "id": "623dfdeaa17ae9d8d8738794",
+      "age": 22,
+      "name": "Beard Medina",
+      "email": "beardmedina@acumentor.com"
+    },
+    {
+      "id": "623dfdeaa9a379b98d18c790",
+      "age": 26,
+      "name": "Florine Mcmillan",
+      "email": "florinemcmillan@acumentor.com"
+    },
+    {
+      "id": "623dfdeabcb35d97d67144e5",
+      "age": 40,
+      "name": "Todd Sanders",
+      "email": "toddsanders@acumentor.com"
+    },
+    {
+      "id": "623dfdea84743adcf9f88ddf",
+      "age": 25,
+      "name": "Mabel Romero",
+      "email": "mabelromero@acumentor.com"
+    },
+    {
+      "id": "623dfdeabe71104f6973af66",
+      "age": 36,
+      "name": "Tisha Nunez",
+      "email": "tishanunez@acumentor.com"
+    }
+  ]
